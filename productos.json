@@ -1,0 +1,9 @@
+[
+    { "producto": "Papa", "precio": 1.25 },
+    { "producto": "Zanahoria", "precio": 7.71 },
+    { "producto": "Tomate", "precio": 5.32 },
+    { "producto": "Lechuga", "precio": 1.99 },
+    { "producto": "Mazorca", "precio": 6.45 },
+    { "producto": "Zapallo", "precio": 8.67 },
+    { "producto": "aguacate", "precio": 5.27 }
+]
